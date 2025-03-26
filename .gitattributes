@@ -1,0 +1,2 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+BINARY_TREE_LECTURE_VIDEO.mp4 filter=lfs diff=lfs merge=lfs -text

@@ -41,4 +41,13 @@ Inorder Traversal: </br>
 
 This project was created as part of a learning exercise on binary tree traversal techniques.
 
+## Demo
+
+Here is a demonstration of the binary tree traversal:
+
+![Binary Tree Traversal Demo](BINARY_TREE_VIDEO_LECTURE.mp4)
+
+For a detailed explanation, refer to the presentation:
+
+[Binary Tree Traversal Presentation](BINARY_TREE.pptx)
 
